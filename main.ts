@@ -1,3 +1,4 @@
+// Fast byte-exact tiny stack VM for Make.fun bounty
 import { readdirSync, readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { join } from 'node:path';
 
